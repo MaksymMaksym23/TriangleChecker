@@ -1,0 +1,9 @@
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\bin\Debug\TrianglesChecker.exe.config
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\bin\Debug\TrianglesChecker.exe
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\bin\Debug\TrianglesChecker.pdb
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\obj\Debug\TrianglesChecker.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\obj\Debug\TrianglesChecker.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\obj\Debug\TrianglesChecker.exe
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\obj\Debug\TrianglesChecker.pdb
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\bin\Debug\nunit.framework.dll
+C:\Users\Kirill\source\repos\TrianglesChecker\TrianglesChecker\bin\Debug\nunit.framework.xml
